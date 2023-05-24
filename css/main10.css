@@ -1,0 +1,19 @@
+.item{
+    background: linear-gradient(90deg,mediumvioletred,purple);
+}
+.ss{
+    font-size: 50px;
+}
+.dd{
+    background: linear-gradient(90deg,deepskyblue,blue);
+    color: white;
+}
+.x{
+    border-radius: 20px ;
+}
+.or{
+    background: linear-gradient(120deg,orange,mediumvioletred);
+}
+.pur{
+    background: linear-gradient(120deg,#a755f6, #a755f6, #d9afff);
+}
